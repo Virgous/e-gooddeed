@@ -12,5 +12,16 @@ berikut kriteria nya
 3. Laporan fitur ini bertujuan untuk melihat detail data transaksi dana 
 
 
-===================================================
+=======================================
+
 Sebelum login, pastikan akun admin sudah terdaftar
+
+Database yang digunakan : postgresql
+
+environment yang dibutuhkan :
+API_PORT
+DB_HOST
+DB_PORT
+DB_NAME
+DB_USERNAME
+DB_PASSWORD
